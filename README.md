@@ -23,6 +23,11 @@ The dataset contains information about:
 - **Microsoft Excel** (Pivot Tables, Charts, Slicers)
 - **Power Query** (Data Cleaning & Transformation)
 
+## 📌 How to View the Dashboard
+1. Download `FNP_Sales_Dashboard.xlsx`
+2. Open it in Microsoft Excel
+3. Navigate to the **Sheet4** tab to explore the dashboard
+
 ## 🛠️ Data Analysis Process
 
 ### 1️⃣ Data Cleaning & Preparation
@@ -48,9 +53,5 @@ The dataset contains information about:
 ✅ **Sundays have the most orders**, making it a peak day for deliveries.  
 
 
-## 📌 How to View the Dashboard
-1. Download `FNP_Sales_Dashboard.xlsx`
-2. Open it in Microsoft Excel
-3. Navigate to the **Sheet4** tab to explore the dashboard
 
-## 📂 Repository Structure
+
