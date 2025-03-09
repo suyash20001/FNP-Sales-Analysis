@@ -17,7 +17,7 @@ The dataset contains information about:
 - **Impact of Order Quantity on Delivery Time**
 
 ## 📸 Dashboard Screenshot
-![Dashboard Screenshot](images/dashboard_screenshot.png)
+![Dashboard Screenshot](Analysis.png)
 
 ## 🚀 Tools Used
 - **Microsoft Excel** (Pivot Tables, Charts, Slicers)
